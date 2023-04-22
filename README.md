@@ -21,10 +21,14 @@ Features
 The Decentralized Twitter platform offers several key features, including:
 
 Decentralized: The platform is built on top of blockchain technology, which means that it is fully decentralized and resistant to censorship.
+
 Secure: All user data is encrypted and stored on the blockchain, ensuring that it is always secure and private.
+
 Open Source: The platform is completely open source, which means that anyone can contribute to the development of the project.
+
 Easy to Use: The platform has a simple and intuitive user interface that makes it easy to use for both experienced and novice users.
 Contributing
+
 We welcome contributions from anyone who is interested in helping to develop the Decentralized Twitter platform. If you are interested in contributing, please read our contribution guidelines for more information.
 
 License
