@@ -16,10 +16,11 @@ truffle migrate --reset<br/>
 npm start<br/><br/>
 This will start the Decentralized Twitter application on your local machine, which you can access by navigating to http://localhost:3000 in your web browser.
 
-Features<br/>
+# Features<br/>
 The Decentralized Twitter platform offers several key features, including:<br/>
 
-Decentralized: The platform is built on top of blockchain technology, which means that it is fully decentralized and resistant to censorship.<br/>
+# Decentralized:<br/> 
+The platform is built on top of blockchain technology, which means that it is fully decentralized and resistant to censorship.<br/>
 <br/>
 Secure: All user data is encrypted and stored on the blockchain, ensuring that it is always secure and private.<br/>
 
@@ -30,7 +31,7 @@ Contributing
 
 We welcome contributions from anyone who is interested in helping to develop the Decentralized Twitter platform. If you are interested in contributing, please read our contribution guidelines for more information.<br/><br/>
 
-License
+# License
 The Decentralized Twitter platform is licensed under the MIT License.
 
 
