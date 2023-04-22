@@ -1,7 +1,7 @@
 # Decentralized Twitter
 This is a git repository for the Decentralized Twitter project, a decentralized social media platform built on top of blockchain technology. The project aims to provide users with a censorship-resistant and secure platform for sharing their thoughts and ideas.<br/>
 
-Getting Started
+# Getting Started
 To get started with the Decentralized Twitter project, you will need to have the following software installed on your computer:<br/>
 
 Node.js<br/>
